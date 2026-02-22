@@ -1,8 +1,7 @@
 {
   "metadata": {
-    "source": "staticshop-catalog",
-    "generated_by": "23f2003670",
-    "version": "1.0"
+    "email": "23f2003670@ds.study.iitm.ac.in",
+    "version": "928036d3"
   },
   "products": [
     {
@@ -157,5 +156,11 @@
       "stock": 52,
       "rating": 2.4
     }
-  ]
+  ],
+  "aggregations": {
+    "home": {
+      "count": 1,
+      "inventoryValue": 3449.76
+    }
+  }
 }
